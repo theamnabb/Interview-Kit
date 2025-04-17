@@ -20,7 +20,8 @@ handleUser(getName);
 // Perform High Order Function
 
 let arr = [1, 2, 3, 4, 5, 6];
-console.log(length(arr));
+console.log(`Length of array: ${arr.length}`);
+
 
 let doulbleArry = arr.map((num) => num * 2);
 console.log(doulbleArry);
