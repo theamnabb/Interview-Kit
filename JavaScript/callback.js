@@ -18,4 +18,4 @@ function getName(name){
 }
 handleUser(getName)
 
-// Today I  want to learned about Aync   
+// Today I  want to learned   
