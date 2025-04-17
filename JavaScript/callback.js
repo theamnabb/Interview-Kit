@@ -19,7 +19,7 @@ handleUser(getName);
 
 // Perform High Order Function
 
-let arr = [1, 2, 3, 4, 5, 6];
+let arr = [1, 2, 30, 4, 50, 6];
 console.log(`Length of array: ${arr.length}`);
 
 
@@ -40,4 +40,7 @@ console.log(sum);
 let oddNum  = arr. find(num => num%2 !==0);
 console.log(`Odd Number: ${oddNum}`);
 
-// 
+// sort 
+
+let sortArr = arr.sort((a,b) => a-b);
+console.log(`Sorted Array: ${sortArr}`);
