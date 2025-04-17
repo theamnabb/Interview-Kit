@@ -26,3 +26,14 @@ console.log(`Length of array: ${arr.length}`);
 let doulbleArry = arr.map((num) => num * 2);
 console.log(doulbleArry);
 console.log(arr);
+
+// Reduce 
+
+let sum = arr.reduce((acc, curr)=>{
+    return acc + curr;
+});
+
+console.log(sum);
+
+
+
