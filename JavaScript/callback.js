@@ -35,5 +35,9 @@ let sum = arr.reduce((acc, curr)=>{
 
 console.log(sum);
 
+// find
 
+let oddNum  = arr. find(num => num%2 !==0);
+console.log(`Odd Number: ${oddNum}`);
 
+// 
