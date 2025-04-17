@@ -18,4 +18,3 @@ function getName(name){
 }
 handleUser(getName)
 
-//   x
