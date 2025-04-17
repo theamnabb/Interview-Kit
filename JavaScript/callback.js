@@ -18,4 +18,4 @@ function getName(name){
 }
 handleUser(getName)
 
-// Today I  want to learned about Aync function, promise and call back  
+// Today I  want to learned about Aync function, promise   
