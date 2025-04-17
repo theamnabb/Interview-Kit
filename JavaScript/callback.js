@@ -44,3 +44,7 @@ console.log(`Odd Number: ${oddNum}`);
 
 let sortArr = arr.sort((a,b) => a-b);
 console.log(`Sorted Array: ${sortArr}`);
+
+arr.sort();
+console.log(`Sorted Array: ${arr}`);
+
