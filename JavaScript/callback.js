@@ -18,4 +18,4 @@ function getName(name){
 }
 handleUser(getName)
 
-//   call back  VS High Order Function
+//   x
