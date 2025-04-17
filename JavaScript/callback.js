@@ -23,3 +23,5 @@ let arr = [1, 2, 3, 4, 5, 6];
 console.log(length(arr));
 
 let doulbleArry = arr.map((num) => num * 2);
+console.log(doulbleArry);
+console.log(arr);
