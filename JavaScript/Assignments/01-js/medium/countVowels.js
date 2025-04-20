@@ -5,8 +5,36 @@
   Once you've implemented the logic, test your code by running
 */
 
+// function countVowels(str) {
+//   const lowerStr = str.toLowerCase();
+//   const vowels = ['a', 'e', 'i', 'o', 'u'];
+//   let count = 0;
+
+//   for (let i of lowerStr) {
+//       if (vowels.includes(i)) {
+//           count++;
+//       }
+//   }
+
+//   console.log(`The string "${str}" contains ${count} vowels.`);
+//   return count;
+// }
+
+// countVowels("Hello World");
+
+// 📌 Second method 
+
 function countVowels(str) {
-    // Your code here
+  let normalizedStr = str.toLowerCase().split('');
+  let vowels = ['a', 'e', 'i', 'o', 'u'];
+  
+  let vowelArray = normalizedStr.filter(char => vowels.includes(char));
+  let count = vowelArray.length;
+  console.log(`The string "${str}" contains ${count} vowels.`);
+  return count;
 }
+countVowels("Hello AaMna"); 
+
+
 
 module.exports = countVowels;
