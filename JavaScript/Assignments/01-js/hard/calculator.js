@@ -18,4 +18,7 @@
 
 class Calculator {}
 
+// Addition 
+// Subtraction
+
 module.exports = Calculator;
