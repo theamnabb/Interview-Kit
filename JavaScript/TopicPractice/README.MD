@@ -11,5 +11,5 @@ today i have learned
 - what is data base 
 - SQL VS NoSQL
 - Mongo DB 
-  - How to install 
+  - How to install mongoDB 
 
