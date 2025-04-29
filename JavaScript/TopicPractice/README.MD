@@ -10,4 +10,6 @@ today i have learned
    - Authorization 
 - what is data base 
 - SQL VS NoSQL
+- Mongo DB 
+  - How to install 
 
