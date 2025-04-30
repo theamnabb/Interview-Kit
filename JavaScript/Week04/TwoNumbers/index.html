@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TwoNumbers</title>
+  </head>
+  <body>
+    <h1>Add two Numbers</h1>
+
+    <input type="number" name="" id="num1" placeholder="Enter first number" />
+    <input type="number" name="" id="num2" placeholder="Enter second number" />
+
+    <button type="submit" onclick="addNumber()">Add</button>
+
+    <div class="result" id="result"></div>
+  </body>
+  <script>
+    function addNumber() {
+       num1 = parseFloat(document.getElementById("num1").value);
+       num2 = parseFloat(document.getElementById("num2").value);
+       const sum = num1 + num2 ;
+    document.getElementById("result").innerHTML = `The sum of ${num1} and ${num2} is ${sum}`;
+    }
+  </script>
+</html>
