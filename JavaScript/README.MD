@@ -18,8 +18,8 @@ today i have learned
 
 - introduction to DOM
 
-# 02 May 2025 
+# 01 May 2025 
  - waste
 
- # 01 May 2025 
+ # 02         May 2025 
  - waste
