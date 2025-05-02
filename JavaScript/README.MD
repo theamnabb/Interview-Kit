@@ -17,3 +17,6 @@ today i have learned
 # Week 04 | 30 April 2025
 
 - introduction to DOM
+
+# 02 May 2025 
+ - waste
