@@ -20,3 +20,6 @@ today i have learned
 
 # 02 May 2025 
  - waste
+
+ # 01 May 2025 
+ - waste
