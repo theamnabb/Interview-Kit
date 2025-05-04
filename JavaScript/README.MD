@@ -26,3 +26,8 @@ today i have learned
 
  # 03 May 2025 
  - waste
+
+# 04 May 2025
+
+- createElement, Query Selector, getElementById, querySelectorAll
+- add and append child, remove elements
