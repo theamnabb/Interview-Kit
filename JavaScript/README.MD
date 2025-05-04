@@ -31,3 +31,12 @@ today i have learned
 
 - createElement, Query Selector, getElementById, querySelectorAll
 - add and append child, remove elements
+- create ToDo App with core HTML, CSS, JS
+   - ToDoApp
+   - Input field 
+   - create element
+   - remove
+   - appened
+   - classlist
+   - add
+   - querySelector
