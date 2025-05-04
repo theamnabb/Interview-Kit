@@ -4,12 +4,16 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="./index.js">
     <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ToDoApp</title>
 </head>
 <body>
     <div class="container">
-        <h1>To Do App</h1>
+        <div class="heading">
+            <i class="fa-solid fa-list-check"></i>
+        <h1>TodoFlow</h1>
+        </div>
 <!-- InputText -->
         <div class="input-container">
             <input type="text" id="taskInput" placeholder="Add a new task...">
@@ -17,12 +21,13 @@
     </div>
     <!-- Item Div -->
      <div class="item-container">
-        <ul id="taskList">
             <!-- Task items will be dynamically added here -->
-             <li>
-                <input type="checkbox" id="task1" class="task-checkbox">
-                <button class="delete-button">Delete</button>
-             </li>
+             <div class="items">
+                 <input type="checkbox" id="task1" class="task-checkbox">
+                 <button class="delete-button">Delete</button>
+
+             </div>
+             
         </ul>
      </div>
 </body>
