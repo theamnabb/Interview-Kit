@@ -2,7 +2,8 @@
 :root{
     --primary-color: #2563EB;
     --secondary-color: #1F2937;
-    --text-color: white;
+    --text-color: #ffff;
+    --textLight: rgb(161, 151, 151);
     --background-color: #111827;
 }
 body{
@@ -36,10 +37,12 @@ i{
 input{
     padding: 10px;
     border-radius: 5px;
-    border: 1px solid var(--primary-color);
+    border: 1px solid var(--textLight);
     margin-right: 10px;
     width: 300px;
-    background-color: var(--background-color)
+    background-color: var(--background-color);
+    color: var(--text-color);
+    outline: none;
 }
 button{
     padding: 10px;
@@ -56,7 +59,7 @@ button{
     align-items: center;
     flex-direction: column;
     margin-top: 20px;
-    background-color: rgb(241, 180, 101);
+    background-color: var(--secondary-color);
     box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
     border-radius: 10px;
     width: 450px;
