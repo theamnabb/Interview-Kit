@@ -12,15 +12,15 @@ addTaskButton.addEventListener('click', ()=>{
 // Add newToDo 
 
 let newToDo = document.createElement('li');
+newToDo.classList.add('item'); 
 newToDo.innerHTML = `<div class="task-content">
               <input type="checkbox" class="checkbox" id="task1">
-              <span>I'm AaMna</span>
+              <span>${getInputValue}</span>
             </div>
             <button class="deleteButton">
               <i class="fa-solid fa-trash"></i>
             </button>
 `
-
 itemsList.appendChild(newToDo);
 // Clear input field after adding todo
 taskInput.value = '';
