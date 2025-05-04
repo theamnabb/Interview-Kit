@@ -31,9 +31,21 @@ newToDo.querySelector('.deleteButton').addEventListener('click',()=>{
     newToDo.remove();
     alert('Task deleted!');
 })
+// Select the checkbox and span inside the newToDo
+const checkbox = newToDo.querySelector('.checkbox');
+const taskText = newToDo.querySelector('span');
 
+// Toggle line-through and gray text when checkbox is clicked
+checkbox.addEventListener('change', () => {
+    if (checkbox.checked) {
+        taskText.style.textDecoration = 'line-through';
+        taskText.style.color = 'gray';
+    } else {
+        taskText.style.textDecoration = 'none';
+        taskText.style.color = '';
+    }
 
 });
 
-// If you want to toggle multiple classes at the same time, using .classList.toggle() won’t work efficiently because it only applies one class at a time. Instead, you should use .classList.add() and .classList.remove() to manage multiple classes.
 
+});
