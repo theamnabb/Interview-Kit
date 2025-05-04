@@ -26,3 +26,15 @@ button{
     cursor: pointer;
     font-weight: bold;
 }
+.item-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    background-color: rgb(241, 180, 101);
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    width: 450px;
+}
+
