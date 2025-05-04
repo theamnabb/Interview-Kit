@@ -8,6 +8,7 @@ addTaskButton.addEventListener('click', ()=>{
     let getInputValue = taskInput.value;
     if (getInputValue === ''){
         alert('Please enter a task!');
+        return;
     }
 // Add newToDo 
 
@@ -24,7 +25,15 @@ newToDo.innerHTML = `<div class="task-content">
 itemsList.appendChild(newToDo);
 // Clear input field after adding todo
 taskInput.value = '';
+
+// For delete button event listener
+newToDo.querySelector('.deleteButton').addEventListener('click',()=>{
+    newToDo.remove();
+    alert('Task deleted!');
 })
 
 
+});
+
+// If you want to toggle multiple classes at the same time, using .classList.toggle() won’t work efficiently because it only applies one class at a time. Instead, you should use .classList.add() and .classList.remove() to manage multiple classes.
 
