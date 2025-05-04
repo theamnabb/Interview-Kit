@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.input-container{
+    background-color: rgb(241, 180, 101);
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    padding: 20px;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 10px;
+    width: 300px;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(254, 255, 254);
+    cursor: pointer;
+    font-weight: bold;
+}
