@@ -1,6 +1,13 @@
+
+:root{
+    --primary-color: #2563EB;
+    --secondary-color: #1F2937;
+    --text-color: white;
+    --background-color: #111827;
+}
 body{
-    background-color: #111827;
-    color: white;
+    background-color: var(--background-color);
+    color: var(--text-color);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .container{
@@ -10,12 +17,18 @@ body{
     align-items: center;
     flex-direction: column;
 }
-.heading{
-    flex-direction: row;
+.headerTitle{
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+i{
+    font-size: 30px;
+    color: var(--primary-color);
+    margin-right: 10px;
 }
 .input-container{
-    background-color: rgb(241, 180, 101);
+    background-color: var(--secondary-color);
     box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
     border-radius: 10px;
     padding: 20px;
@@ -23,17 +36,19 @@ body{
 input{
     padding: 10px;
     border-radius: 5px;
-    border: none;
+    border: 1px solid var(--primary-color);
     margin-right: 10px;
     width: 300px;
+    background-color: var(--background-color)
 }
 button{
     padding: 10px;
     border-radius: 5px;
     border: none;
-    background-color: rgb(254, 255, 254);
+    background-color: var(--primary-color);
     cursor: pointer;
     font-weight: bold;
+    color: var(--text-color);
 }
 .item-container{
     display: flex;
