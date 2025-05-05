@@ -43,4 +43,16 @@ today i have learned
 
 # 05 May 2025
 - MongoDB | Database 
- - Waht is DataBase
+ - WHat is DataBase
+
+- Again Revise the Backend 
+ - start with Node JS
+ - HTTP 
+ - create Server by using HTTP create Server
+ - Express JS()
+ - Middleware
+ - Routing 
+ - method of APIs
+
+- MonoDB
+ -  
