@@ -43,7 +43,7 @@ today i have learned
 
 # 05 May 2025
 - MongoDB | Database 
- - WHat is DataBase
+ - What is DataBase
 
 - Again Revise the Backend 
  - start with Node JS
@@ -55,4 +55,9 @@ today i have learned
  - method of APIs
 
 - MonoDB
- -  
+ -  How to install
+ - Basic command 
+  - create DB
+  - show DB 
+  - delete DB 
+  - create collection
