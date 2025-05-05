@@ -40,3 +40,7 @@ today i have learned
    - classlist
    - add
    - querySelector
+
+# 05 May 2025
+- MongoDB | Database 
+ - Waht is DataBase
