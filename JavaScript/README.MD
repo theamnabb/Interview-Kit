@@ -61,3 +61,12 @@ today i have learned
   - show DB 
   - delete DB 
   - create collection
+
+  # 06 May 2025
+
+  - React 
+  - why came react
+  - Problem before React
+  - how to solve 
+  - Virtual DOM
+  
