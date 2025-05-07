@@ -10,6 +10,7 @@ const Enquiry = () => {
     <div>
       <h1 className="text-[40px] text-center py-6 font-bold ">User Enquiry</h1>
       <div className="grid grid-cols-[30%_auto]">
+        {/* Form Side  */}
         <div className="bg-blue-900 p-4">
           <h2 className="text-[20px] font-bold text-amber-300">Enquiry Form</h2>
           <form action="" onSubmit={saveEnquiry}>
@@ -65,6 +66,7 @@ const Enquiry = () => {
             </div>
           </form>
         </div>
+        {/* Table side  */}
       </div>
     </div>
   );
