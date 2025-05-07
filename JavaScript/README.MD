@@ -74,5 +74,9 @@ today i have learned
 
   # 07 May 2025
 
+  - Thunder Client (Postman like)
+  - connect MongoDB connection 
+  - mongosh For run mongo DB
+  - delete previous Database by using db.dropDatabase() function
   - 
 
