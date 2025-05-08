@@ -7,7 +7,7 @@ require("dotenv").config();
 
 // conect moogose
 
-mongoose.connect
+mongoose
   .connect(process.env.DBRUL)
   .then(() => {
     console.log("connected to DB");
@@ -17,5 +17,5 @@ mongoose.connect
   });
 
 app.listen(process.env.PORT || 3000, () => {
-  log("server is running on port");
+  console.log("server is running on port");
 });
