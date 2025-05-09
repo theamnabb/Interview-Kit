@@ -25,3 +25,6 @@ let userEnquirySchema = new mongoose.Schema({
 const UserEnquiryModel = mongoose.model("UserEnquiry", userEnquirySchema);
 
 module.exports = UserEnquiryModel;
+
+
+// Using Thsi model and schema in my routes now 
