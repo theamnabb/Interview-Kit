@@ -78,5 +78,17 @@ today i have learned
   - connect MongoDB connection 
   - mongosh For run mongo DB
   - delete previous Database by using db.dropDatabase() function
-  - 
+  
+
+  # 08 May 2025
+
+  - day waste 
+
+  # 09 May 2025
+
+  - day waste 
+
+  
+
+
 
