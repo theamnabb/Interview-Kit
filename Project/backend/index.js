@@ -5,16 +5,23 @@ let app = express();
 let mongoose = require("mongoose");
 require("dotenv").config();
 
+
 // connect moogose
 
 mongoose
-  .connect(process.env.DBRUL)
-  .then(() => {
-    console.log("connected to DB");
-  })
-  .catch((err) => {
-    console.log("error connecting to DB", err);
-  });
+.connect(process.env.DBRUL)
+.then(() => {
+  console.log("connected to DB");
+})
+.catch((err) => {
+  console.log("error connecting to DB", err);
+});
+
+// Middleware
+app.use(express.json());
+
+  // Routes
+
 
 app.listen(process.env.PORT || 3000, () => {
   console.log("server is running on port");
