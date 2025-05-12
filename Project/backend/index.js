@@ -20,9 +20,10 @@ mongoose
 
 // Middleware
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 // Routes
-app.use('api/website/enquiry',enquiryRouter);
+app.use('/api/website/enquiry',enquiryRouter);
 
 
 

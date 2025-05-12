@@ -4,6 +4,6 @@ const enquiryRouter = express.Router();
 
 // Post routes 
 enquiryRouter.post('/insert', enquiryInsert)
-app.use
+
 
 module.exports = enquiryRouter;
