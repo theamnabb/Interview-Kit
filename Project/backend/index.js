@@ -3,6 +3,7 @@
 let express = require("express");
 let app = express();
 let mongoose = require("mongoose");
+const enquirRouter = require("./App/routes/web/enquiryRoutes");
 require("dotenv").config();
 
 
@@ -20,7 +21,9 @@ mongoose
 // Middleware
 app.use(express.json());
 
-  // Routes
+// Routes
+app.use('api/website/enquiry',enquirRouter);
+
 
 
 app.listen(process.env.PORT || 3000, () => {
