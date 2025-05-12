@@ -1,4 +1,5 @@
 import React from "react";
+import axios from "axios";
 import {
   Button,
   Textarea,
@@ -14,8 +15,17 @@ import {
 
 const Enquiry = () => {
   let saveEnquiry = (e) => {
-    alert("Enquiry Saved Successfully");
+
     e.preventDefault();
+
+    let formData = {
+      name: e.target.name.value,
+      email: e.target.email.value,    
+      phone: e.target.phone.value,
+      message: e.target.message.value,
+    }
+
+    axios.post('http://localhost:8000/api/website/enquiry/insert', formData)
   };
   return (
     <div>
