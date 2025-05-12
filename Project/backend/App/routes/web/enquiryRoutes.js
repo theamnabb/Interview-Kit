@@ -1,4 +1,9 @@
 const express = require('express');
-const enquirRouter = express.Router();
+const { enquiryInsert } = require('../../controllers/web/enquiryController');
+const enquiryRouter = express.Router();
 
-module.exports = enquirRouter;
+// Post routes 
+enquiryRouter.post('/insert', enquiryInsert)
+app.use
+
+module.exports = enquiryRouter;
