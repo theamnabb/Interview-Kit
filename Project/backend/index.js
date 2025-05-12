@@ -5,6 +5,8 @@ let app = express();
 let mongoose = require("mongoose");
 const enquiryRouter = require("./App/routes/web/enquiryRoutes");
 require("dotenv").config();
+let cors = require("cors");
+app.use(cors());
 
 
 // connect moogose
