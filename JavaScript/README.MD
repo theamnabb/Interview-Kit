@@ -97,5 +97,11 @@ today i have learned
     - What are State, Components and re-rendering in React.
     - Create a simple count app using States and Components.
 
+   # 11 May 2025
+
+   - Waste my day 👽🥴
+
+   # 12 May 2025
+
 
 
