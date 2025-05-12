@@ -104,5 +104,3 @@ today i have learned
    # 12 May 2025
    - waste the day | i made mistake to text him 
 
-
-

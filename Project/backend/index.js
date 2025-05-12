@@ -5,7 +5,7 @@ let app = express();
 let mongoose = require("mongoose");
 require("dotenv").config();
 
-// conect moogose
+// connect moogose
 
 mongoose
   .connect(process.env.DBRUL)
