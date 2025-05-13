@@ -90,7 +90,7 @@ today i have learned
 
   # 10 May 2025
 
-  -  weekk 5.1 | React Foundations (Revision of Week 4.2)
+  - weekk 5.1 | React Foundations (Revision of Week 4.2)
     - Static VS Dynamic Website
     - Why React Came
     - What problem React Solve
@@ -103,4 +103,9 @@ today i have learned
 
    # 12 May 2025
    - waste the day | i made mistake to text him 
+   - MERN Stack project
+     - learn about Cors, axios
 
+ # 13 May 2025
+
+ - 
