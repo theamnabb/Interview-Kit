@@ -117,3 +117,4 @@ today i have learned
  - Create Slides for CIP 
  - Done my slides theory for CIP
  - remining part of code 
+ - i'm confusing too much 
