@@ -115,4 +115,5 @@ today i have learned
 
  - no coding 
  - Create Slides for CIP 
- 
+ - Done my slides theory for CIP
+ - remining part of code 
