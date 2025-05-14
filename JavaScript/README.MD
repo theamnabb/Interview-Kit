@@ -114,4 +114,5 @@ today i have learned
  # 14 May 2025
 
  - no coding 
- - 05:48:54
+ - Create Slides for CIP 
+ 
