@@ -118,3 +118,7 @@ today i have learned
  - Done my slides theory for CIP
  - remining part of code 
  - i'm confusing too much 
+
+# 15 May 2025
+ - Lecture Done at CIP 
+ - I mess some coding problem but i was good  
