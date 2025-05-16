@@ -130,11 +130,11 @@ today i have learned
  - Pending work
    - video for website security
     - after pushing my graph work perfectly
-    
+
     ----
 
 - I have done my Interview 
-   - that was awesone, when HR said , i'm proud of you.
+   - that was awesome, when HR said , i'm proud of you.
    - You'r great Candiate
    - She give me some feedback
    - Now I'm waiting for my Last and Final interview there
