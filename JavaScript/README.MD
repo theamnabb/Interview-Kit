@@ -135,7 +135,7 @@ today i have learned
 
 - I have done my Interview 
    - that was awesome, when HR said , i'm proud of you.
-   - You'r great Candiate
+   - You'r great candidate
    - She give me some feedback
    - Now I'm waiting for my Last and Final interview there
    - Video Created for Website Security
