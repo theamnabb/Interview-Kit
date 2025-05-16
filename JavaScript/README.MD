@@ -128,11 +128,14 @@ today i have learned
  - Interview Done at TCF Dastak
  - Today interview at Netixsol onsite for Software Engineer
  - Pending work
-    - video for website security
-    - after pushing my graph work perfectly 
-    - I have done my interview 
-      - that was awesone, when HR said , i'm proud of you.
-      - You'r great Candiate
-      - She give me some feedback
-      - Now I'm waiting for my Last and Final interview there
+   - video for website security
+    - after pushing my graph work perfectly
+    
+    ----
+
+- I have done my Interview 
+   - that was awesone, when HR said , i'm proud of you.
+   - You'r great Candiate
+   - She give me some feedback
+   - Now I'm waiting for my Last and Final interview there
    - Video Created for Website Security
