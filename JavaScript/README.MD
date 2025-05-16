@@ -131,3 +131,4 @@ today i have learned
     - video for website security
     - after pushing my graph work perfectly 
     - I have done my interview 
+      - that was awesone, when HR said , i'm proud of you.
