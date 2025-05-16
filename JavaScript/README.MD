@@ -123,3 +123,7 @@ today i have learned
  - Lecture Done at CIP 
  - I mess some coding problem but i was good  
  - Now its time to prepare my self for TCF Interview
+
+ # 16 May 2025
+ - Interview Done at TCF Dastak
+ - Today interview at Netixsol onsite for Software Engineer
