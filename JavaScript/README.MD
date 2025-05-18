@@ -144,3 +144,8 @@ today i have learned
 
 - Plan for MERN Stack Video Complete
 
+# 18 May 2025
+
+- No plan | going to Mamu trf 
+- I'll write some LinkedIn post
+
