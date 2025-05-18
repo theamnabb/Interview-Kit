@@ -142,5 +142,5 @@ today i have learned
 
 # 17 May 2025
 
-- Plan for MENR Stack Video Complete
+- Plan for MERN Stack Video Complete
 
