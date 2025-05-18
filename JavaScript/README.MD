@@ -90,7 +90,7 @@ today i have learned
 
   # 10 May 2025
 
-  - weekk 5.1 | React Foundations (Revision of Week 4.2)
+  - week 5.1 | React Foundations (Revision of Week 4.2)
     - Static VS Dynamic Website
     - Why React Came
     - What problem React Solve
