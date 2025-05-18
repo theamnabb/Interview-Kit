@@ -148,4 +148,7 @@ today i have learned
 
 - No plan | going to Mamu trf 
 - I'll write some LinkedIn post
+      - 365 days of Leetcode
+      - 365 days of Github
+      - add Experience and Voluntor work at LinkedIn Profile 
 
