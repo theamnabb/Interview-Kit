@@ -15,5 +15,11 @@ let enquiryInsert = (req, res) => {
     });
 };
 
+let enquiryList = async (req, res) =>{
+  let enquiry = await UserEnquiryModel.find();
+  if(enquiry){
+    res.status(200).json({message:"Enquiry List", enquiry: enquiry})}
+}
+
 
 module.exports = {enquiryInsert}
