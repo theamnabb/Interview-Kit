@@ -1,52 +1,44 @@
 import React, { useState } from "react";
 import axios from "axios";
-import {
-  Button,
-  Textarea,
-  Label,
-  TextInput,
-} from "flowbite-react";
-import { ToastContainer, toast } from 'react-toastify';
+import { Button, Textarea, Label, TextInput } from "flowbite-react";
+import { ToastContainer, toast } from "react-toastify";
 import EnquiryList from "./EnquiryList";
 
-
-
 const Enquiry = () => {
-
-// controled State
-let [enquiryList, setEnquiryList] = useState([]);
-let [formData, setFormData] = useState({
-  name:"",
-  email: "",
-  phone: "",  
-  message: "",
-});
+  // controled State
+  let [enquiryList, setEnquiryList] = useState([]);
+  let [formData, setFormData] = useState({
+    name: "",
+    email: "",
+    phone: "",
+    message: "",
+  });
 
   let saveEnquiry = (e) => {
-   e.preventDefault();
+    e.preventDefault();
     axios.post("http://localhost:8000/api/website/enquiry/insert", formData);
-    toast.success("Enquiry Added Successfully"), 
-    setFormData({
-      name: "",
-      email: "",
-      phone: "",
-      message: "",
-    });
-    
+    toast.success("Enquiry Added Successfully"),
+      setFormData({
+        name: "",
+        email: "",
+        phone: "",
+        message: "",
+      });
   };
 
   // view Enquiry | get Enquiry
   let getAllEnquiry = () => {
-    axios.get('http://localhost:8000/api/website/enquiry/view')
-    .then((res)=>{
-      return res.data;
-    })
-    .then((finalData)=>{
-      if(finalData.status){
-        setEnquiryList(finalData.enquiryList);
-      }
-    })
-  }
+    axios
+      .get("http://localhost:8000/api/website/enquiry/view")
+      .then((res) => {
+        return res.data;
+      })
+      .then((finalData) => {
+        if (finalData.status) {
+          setEnquiryList(finalData.enquiryList);
+        }
+      });
+  };
 
   // Get the data from the API
   let getInputValue = (e) => {
@@ -58,7 +50,7 @@ let [formData, setFormData] = useState({
   };
   return (
     <div>
-    <ToastContainer />
+      <ToastContainer />
       <h1 className="text-[40px] text-center py-6 font-bold ">User Enquiry</h1>
       <div className="grid grid-cols-[30%_auto] gap-9">
         {/* Form Side  */}
@@ -71,7 +63,7 @@ let [formData, setFormData] = useState({
                 id="name"
                 type="text"
                 name="name"
-                value = {formData.name}
+                value={formData.name}
                 onChange={getInputValue}
                 placeholder="Your Name"
                 required
@@ -127,8 +119,7 @@ let [formData, setFormData] = useState({
         </div>
 
         {/* Table side  */}
-        <EnquiryList />
-
+        <EnquiryList data={enquiryList} />
       </div>
     </div>
   );
