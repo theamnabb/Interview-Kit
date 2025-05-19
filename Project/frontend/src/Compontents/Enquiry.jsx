@@ -32,7 +32,21 @@ let [formData, setFormData] = useState({
       phone: "",
       message: "",
     });
+    
   };
+
+  // view Enquiry | get Enquiry
+  let getAllEnquiry = () => {
+    axios.get('http://localhost:8000/api/website/enquiry/view')
+    .then((res)=>{
+      return res.data;
+    })
+    .then((finalData)=>{
+      if(finalData.status){
+        setEnquiryList(finalData.enquiryList);
+      }
+    })
+  }
 
   // Get the data from the API
   let getInputValue = (e) => {
