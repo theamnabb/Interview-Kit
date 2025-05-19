@@ -6,7 +6,7 @@ let enquiryInsert = (req, res) => {
 
   enquiry.save()
     .then((result) => {
-      console.log("Enquiry Inserted", result);
+      // console.log("Enquiry Inserted", result);
       res.status(201).json({ message: "Enquiry Inserted", enquiry: result });
     })
     .catch((err) => {
@@ -17,8 +17,8 @@ let enquiryInsert = (req, res) => {
 
 let enquiryList = async (req, res) =>{
   let enquiry = await UserEnquiryModel.find()
-    res.send({status:1, enquiry: enquiry})
+    res.send({status:1, enquiryList: enquiry})
 }
 
 
-module.exports = {enquiryInsert}
+module.exports = {enquiryInsert, enquiryList}

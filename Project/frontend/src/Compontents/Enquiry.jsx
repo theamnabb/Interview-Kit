@@ -14,7 +14,7 @@ import EnquiryList from "./EnquiryList";
 const Enquiry = () => {
 
 // controled State
-
+let [enquiryList, setEnquiryList] = useState([]);
 let [formData, setFormData] = useState({
   name:"",
   email: "",
