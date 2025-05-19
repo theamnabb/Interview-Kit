@@ -12,6 +12,7 @@ import {
   TableHeadCell,
   TableRow,
 } from "flowbite-react";
+import { ToastContainer, toast } from 'react-toastify';
 
 
 
@@ -29,6 +30,7 @@ let [formData, setFormData] = useState({
   let saveEnquiry = (e) => {
    
     axios.post("http://localhost:8000/api/website/enquiry/insert", formData);
+    toast.success("Enquiry Added Successfully"), 
     setFormData({
       name: "",
       email: "",
@@ -47,6 +49,7 @@ let [formData, setFormData] = useState({
   };
   return (
     <div>
+    <ToastContainer />
       <h1 className="text-[40px] text-center py-6 font-bold ">User Enquiry</h1>
       <div className="grid grid-cols-[30%_auto] gap-9">
         {/* Form Side  */}
