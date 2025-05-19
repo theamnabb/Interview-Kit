@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { Button, Textarea, Label, TextInput } from "flowbite-react";
 import { ToastContainer, toast } from "react-toastify";
@@ -48,6 +48,10 @@ const Enquiry = () => {
     oldData[inputName] = inputValue;
     setFormData(oldData);
   };
+
+  useEffect(() => {
+    getAllEnquiry();
+  }, []);
   return (
     <div>
       <ToastContainer />
