@@ -28,7 +28,7 @@ let [formData, setFormData] = useState({
 });
 
   let saveEnquiry = (e) => {
-   
+   e.preventDefault();
     axios.post("http://localhost:8000/api/website/enquiry/insert", formData);
     toast.success("Enquiry Added Successfully"), 
     setFormData({
