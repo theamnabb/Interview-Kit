@@ -7,7 +7,7 @@ import {
   TableHeadCell,
   TableRow,
 } from "flowbite-react";
-const EnquiryList = () => {
+const EnquiryList = ({data}) => {
   return (
     <div className="bg-blue-900 p-4 rounded-2xl">
           <h2 className="text-[20px] font-bold text-amber-300 ">
@@ -33,31 +33,18 @@ const EnquiryList = () => {
                 </TableRow>
               </TableHead>
               <TableBody className="divide-y">
-                <TableRow className="">
-                  <TableCell className="whitespace-nowrap font-medium  ">
-                    01
-                  </TableCell>
-                  <TableCell>Sliver</TableCell>
-                  <TableCell>Laptop</TableCell>
-                  <TableCell>$2999</TableCell>
-                  <TableCell>Hello Word</TableCell>
-                  <TableCell>
-                    <a
-                      href="#"
-                      className="font-medium text-cyan-600 hover:underline dark:text-cyan-500"
-                    >
-                      Delete
-                    </a>
-                  </TableCell>
-                  <TableCell>
-                    <a
-                      href="#"
-                      className="font-medium text-cyan-600 hover:underline dark:text-cyan-500"
-                    >
-                      Edit
-                    </a>
-                  </TableCell>
-                </TableRow>
+                {/* Map through the data and display it in the table */}
+                {
+                  data.length>=1 ?
+                data.map((item, index) => (
+                  <>
+                  </>
+                )):
+                <TableRow className="bg-white dark:border-gray-700 ">
+                  <TableCell colSpan={9} className="whitespace-nowrap font-medium text-center ">
+                    Not found any enquiry  </TableCell>
+                    </TableRow>
+                    }
               </TableBody>
             </Table>
           </div>
