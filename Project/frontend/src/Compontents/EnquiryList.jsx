@@ -9,8 +9,8 @@ import {
 } from "flowbite-react";
 
 const EnquiryList = ({ data }) => {
-  let deleteRow = () => {
-    alert("Are you sure you want to delete this row?");
+  let deleteRow = (delId) => {
+    alert(delId);
   };
 
   return (
@@ -52,7 +52,7 @@ const EnquiryList = ({ data }) => {
                   </TableCell>
                   <TableCell>
                     <button
-                      onClick={deleteRow}
+                      onClick={()=> deleteRow(item._id)}
                       className="bg-red-500 hover:bg-red-600 text-white text-sm px-3 py-1 rounded-lg  cursor-pointer"
                     >
                       Delete
