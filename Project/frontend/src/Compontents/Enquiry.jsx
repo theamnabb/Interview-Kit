@@ -24,6 +24,7 @@ const Enquiry = () => {
         phone: "",
         message: "",
       });
+      getAllEnquiry()
   };
 
   // view Enquiry | get Enquiry
@@ -38,6 +39,7 @@ const Enquiry = () => {
           setEnquiryList(finalData.enquiryList);
         }
       });
+      
   };
 
   // Get the data from the API
