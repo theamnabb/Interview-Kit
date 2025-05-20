@@ -123,7 +123,7 @@ const Enquiry = () => {
         </div>
 
         {/* Table side  */}
-        <EnquiryList data={enquiryList} />
+        <EnquiryList data={enquiryList} getAllEnquiry={getAllEnquiry} />
       </div>
     </div>
   );

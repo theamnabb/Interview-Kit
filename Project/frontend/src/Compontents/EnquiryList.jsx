@@ -5,16 +5,24 @@ import {
   TableHead,
   TableHeadCell,
   TableRow,
-  Button,
+  
 } from "flowbite-react";
+import { ToastContainer, toast } from "react-toastify";
 
-const EnquiryList = ({ data }) => {
+const EnquiryList = ({ data, getAllEnquiry }) => {
   let deleteRow = (delId) => {
-    alert(delId);
+    axios
+      .delete(`http://localhost:8000/api/website/enquiry/detete/${delId}`)
+      .then((res)=>{
+        toast.success("Enquiry Deleted Successfully");
+        getAllEnquiry()
+      })
   };
 
   return (
+
     <div className="bg-blue-900 p-5 rounded-2xl">
+      <ToastContainer/>
       <h2 className="text-[20px] font-bold text-amber-300 mb-4">
         Enquiry List
       </h2>
