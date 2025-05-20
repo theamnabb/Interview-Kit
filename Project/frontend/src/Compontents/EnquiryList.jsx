@@ -1,3 +1,4 @@
+import axios from "axios";
 import {
   Table,
   TableBody,
@@ -11,8 +12,7 @@ import { ToastContainer, toast } from "react-toastify";
 
 const EnquiryList = ({ data, getAllEnquiry }) => {
   let deleteRow = (delId) => {
-    axios
-      .delete(`http://localhost:8000/api/website/enquiry/detete/${delId}`)
+    axios.delete(`http://localhost:8000/api/website/enquiry/delete/${delId}`)
       .then((res)=>{
         toast.success("Enquiry Deleted Successfully");
         getAllEnquiry()
@@ -43,7 +43,7 @@ const EnquiryList = ({ data, getAllEnquiry }) => {
             {data && data.length > 0 ? (
               data.map((item, index) => (
                 <TableRow
-                  key={item.id || index}
+                  key={item._id || index}
                   className="bg-white dark:border-gray-700 dark:bg-gray-800"
                 >
                   <TableCell className="whitespace-nowrap font-medium text-gray-900 dark:text-white">

@@ -26,9 +26,8 @@ let enquiryList = async (req, res) => {
 let enquiryDelete = async (req, res) => {
   let enquiryId = req.params.id;
   let enquiry = await UserEnquiryModel.deleteOne({ _id: enquiryId });
-  if (enquiry.deletedCount > 0) {
-    res.send({ status: 1, message: "Enquiry Deleted" });
-  }
+    res.send({ status: 1, message: "Enquiry Deleted", enquiry });
+  
 };
 
 module.exports = { enquiryInsert, enquiryList, enquiryDelete };
