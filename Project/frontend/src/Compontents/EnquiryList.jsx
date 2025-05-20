@@ -9,6 +9,10 @@ import {
 } from "flowbite-react";
 
 const EnquiryList = ({ data }) => {
+  let deleteRow = () => {
+    alert("Are you sure you want to delete this row?");
+  };
+
   return (
     <div className="bg-blue-900 p-5 rounded-2xl">
       <h2 className="text-[20px] font-bold text-amber-300 mb-4">
@@ -47,7 +51,10 @@ const EnquiryList = ({ data }) => {
                     </button>
                   </TableCell>
                   <TableCell>
-                    <button className="bg-red-500 hover:bg-red-600 text-white text-sm px-3 py-1 rounded-lg  cursor-pointer">
+                    <button
+                      onClick={deleteRow}
+                      className="bg-red-500 hover:bg-red-600 text-white text-sm px-3 py-1 rounded-lg  cursor-pointer"
+                    >
                       Delete
                     </button>
                   </TableCell>
