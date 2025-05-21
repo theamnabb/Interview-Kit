@@ -167,4 +167,5 @@ today i have learned
 # 21 May 2025
 
 - https://youtu.be/TkYtVQKWxeg?si=4Bw8rFqiAmzSPUt9 nodemailer
+- CIP Slides Ready 
 
