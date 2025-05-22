@@ -169,3 +169,6 @@ today i have learned
 - https://youtu.be/TkYtVQKWxeg?si=4Bw8rFqiAmzSPUt9 nodemailer
 - CIP Slides Ready 
 
+# 22 May 2025
+
+- CIP Lecture
