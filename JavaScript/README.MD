@@ -172,3 +172,4 @@ today i have learned
 # 22 May 2025
 
 - CIP Lecture
+- https://www.heroui.com/ need to explore heroui
