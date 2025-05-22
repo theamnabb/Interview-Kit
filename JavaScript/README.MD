@@ -173,3 +173,8 @@ today i have learned
 
 - CIP Lecture
 - https://www.heroui.com/ need to explore heroui
+
+- need to do these task 
+   - CIP lecture deliver 
+   - React Hooks
+   - Next JS first 5 videos 
