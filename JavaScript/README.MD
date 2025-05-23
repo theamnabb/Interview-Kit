@@ -180,8 +180,9 @@ today i have learned
   - CIP lecture deliver
   - React Hooks
   - Next JS first 5 / 11 videos
-  - Done CIP Lecture
-  - Target GITHUB
+  
+- Done CIP Lecture
+- Target GITHUB
 
 # 23 May 2025
 
