@@ -190,3 +190,5 @@ today i have learned
 - I cry due to him | I just really hate him.
 - My Mobile was not working properly and due to this i just video tha video of Nxt JS not implement the all concept
 - I have a lot of work in my plate but i 'm stuck 
+- I 'm sad 
+- Today Maryum Engegment 
