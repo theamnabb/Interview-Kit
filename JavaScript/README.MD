@@ -184,4 +184,5 @@ today i have learned
 # 23 May 2025
 - Waste my day
 - 15 videos of next JS watch 
+- I'm carry due to him  | I just really hate him.
 
