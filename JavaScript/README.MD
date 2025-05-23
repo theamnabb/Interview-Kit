@@ -180,3 +180,8 @@ today i have learned
    - Next JS first 5 / 11 videos 
    - Done CIP Lecture
    - Target GITHUB
+
+# 23 May 2025
+- Waste my day
+- 15 videos of next JS watch 
+
