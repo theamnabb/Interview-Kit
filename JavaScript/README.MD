@@ -189,4 +189,4 @@ today i have learned
 - 15 videos of next JS watch
 - I cry due to him | I just really hate him.
 - My Mobile was not working properly and due to this i just video tha video of Nxt JS not implement the all concept
-- I have a lot 
+- I have a lot of work in my plate but i 'm stuck 
