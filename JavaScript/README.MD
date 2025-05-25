@@ -208,3 +208,4 @@ today i have learned
   - CV update
   - prepare for Netixsol 
   - prepare for urdu speech 
+  - Need to search for best open source 
