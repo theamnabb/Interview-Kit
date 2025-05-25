@@ -199,3 +199,11 @@ today i have learned
 - React Hooks
 - Recoil learn 
 - also waste time due to internet
+
+# 25 May 2025
+
+- ToDay Plan
+  - Practice for Next js 
+  - Task complete by Saif bhai Local storage
+  - CV update
+  - Pre
