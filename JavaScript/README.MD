@@ -207,3 +207,4 @@ today i have learned
   - Task complete by Saif bhai Local storage
   - CV update
   - prepare for Netixsol 
+  - prepare for urdu speech 
