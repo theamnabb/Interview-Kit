@@ -206,4 +206,4 @@ today i have learned
   - Practice for Next js 
   - Task complete by Saif bhai Local storage
   - CV update
-  - Pre
+  - prepare for Netixsol 
