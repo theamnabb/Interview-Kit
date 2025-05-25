@@ -197,3 +197,5 @@ today i have learned
 # 24 May 2025
 
 - React Hooks
+- Recoil learn 
+- also waste time due to internet
