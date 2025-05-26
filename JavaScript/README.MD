@@ -209,3 +209,9 @@ today i have learned
   - prepare for Netixsol 
   - prepare for urdu speech 
   - Need to search for best open source 
+
+  ---
+   - Not work performed due to guest 
+
+  # 26 May 2025
+  - CV update
