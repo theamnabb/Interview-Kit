@@ -217,3 +217,6 @@ today i have learned
   - CV update
   - Interview Done | Feel Sad bcz Going Not good
   - Change my Name AaMna AnSari to Amna Bibi | Amna BB
+
+  - Change all Account and also Connect with new email
+  - Github Remining
