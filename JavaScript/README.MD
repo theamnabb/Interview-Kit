@@ -216,3 +216,4 @@ today i have learned
   # 26 May 2025
   - CV update
   - Interview Done | Feel Sad bcz Going Not good
+  - Change my Name AaMna AnSari to Amna Bibi | Amna BB
