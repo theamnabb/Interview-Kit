@@ -227,3 +227,5 @@ today i have learned
   - CV update 
   - Linkedtree update 
   - Again i feel to much hurt | feel stuck here 
+
+  # 27 May 2025 
