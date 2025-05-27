@@ -226,3 +226,4 @@ today i have learned
   - upadate Portfolio
   - CV update 
   - Linkedtree update 
+  - Again i feel to much hurt | feel stuck here 
