@@ -229,3 +229,6 @@ today i have learned
   - Again i feel to much hurt | feel stuck here 
 
   # 27 May 2025 
+
+  # 29 May 2025
+  - learn WordPress 
