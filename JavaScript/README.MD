@@ -233,3 +233,6 @@ today i have learned
   # 29 May 2025
   - learn WordPress
   - Tomorrow i m going to ready a lecture for CIP   
+
+  # 30 May 2025
+  -   
