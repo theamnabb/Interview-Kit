@@ -237,3 +237,4 @@ today i have learned
   # 30 May 2025
   - Talk to him again
   - Missed my last CIP Lecture 
+  - He tease me all the time
