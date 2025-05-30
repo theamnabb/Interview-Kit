@@ -235,4 +235,5 @@ today i have learned
   - Tomorrow i m going to ready a lecture for CIP   
 
   # 30 May 2025
-  -   
+  - Talk to him again
+  - Missed my last CIP Lecture 
