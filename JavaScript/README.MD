@@ -213,7 +213,7 @@ today i have learned
   ---
    - Not work performed due to guest 
 
-  # 26 May 2025
+# 26 May 2025
   - CV update
   - Interview Done | Feel Sad bcz Going Not good
   - Change my Name AaMna AnSari to Amna Bibi | Amna BB
@@ -228,13 +228,18 @@ today i have learned
   - Linkedtree update 
   - Again i feel to much hurt | feel stuck here 
 
-  # 27 May 2025 
+# 27 May 2025 
 
-  # 29 May 2025
+# 29 May 2025
   - learn WordPress
   - Tomorrow i m going to ready a lecture for CIP   
 
-  # 30 May 2025
+# 30 May 2025
   - Talk to him again
   - Missed my last CIP Lecture 
   - He tease me all the time
+
+# 31 May 2025
+- Again Block him
+
+----
