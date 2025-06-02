@@ -4,3 +4,4 @@
 # 02 June 2025
 - Good Morning
 - Typing Speed 
+- I'm sad due to the Weight 
