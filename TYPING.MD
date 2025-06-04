@@ -4,7 +4,6 @@
 - Home Key 
 
 # 03 June 2025
-- work on wordpress website
 
 # 04 June 2025
-- work on QuickPick website
+-
