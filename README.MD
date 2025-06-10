@@ -15,3 +15,6 @@
 
 # 04 June 2025
 - work on QuickPick website
+
+# 10 June 2025
+- work on upwork profile
