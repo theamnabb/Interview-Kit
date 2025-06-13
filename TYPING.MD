@@ -8,4 +8,3 @@
 # 04 June 2025
 - Lesson 1 to 14 
 
-# 05 June 2025
