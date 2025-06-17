@@ -104,3 +104,8 @@ Confusing layouts
 Too many steps to complete a task
 
 📌 Goal: Make the experience simple, fast, enjoyable.
+
+https://maze.co/
+
+for testing 
+https://uxpressia.com/
