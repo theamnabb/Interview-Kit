@@ -33,4 +33,13 @@ Resources:
 
 - Resource: Google UX Coursera
 
-# 
+#  Day 3 – User Flows & Journey Mapping
+
+- Create a basic user flow: login → browse → order
+
+- Understand navigation structures (IA)
+
+- Tools: Miro/FigJam
+
+- Resource: Mizko – User Flow Tutorial
+
