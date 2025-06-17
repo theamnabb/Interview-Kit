@@ -43,3 +43,16 @@ Resources:
 
 - Resource: Mizko – User Flow Tutorial
 
+# Day 4 – Wireframes (Lo-Fi Sketches)
+
+- U- nderstand what wireframes are and their importance in UX
+
+- Sketch low-fidelity screen layouts (structure only, no visuals)
+
+- Design wireframes for 3 core screens: Login, Home, and Cart
+
+- Tools: Paper, Pen or Figma (Wireframe Kit)
+
+- Task: Digitize your sketches using Figma (use grey colors only)
+
+- Resource: Jesse Showalter - Wireframing
