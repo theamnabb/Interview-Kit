@@ -19,3 +19,18 @@ Resources:
     - What is UI/UX Design
 
 - NNGroup UX basics: https://www.nngroup.com/articles/definition-user-experience/
+
+
+# Day 2 – UX Research & Personas
+
+- Learn user research basics
+
+- Build a user persona & empathy map
+
+- Tools: Miro/FigJam
+
+- Task: Create a persona for a basic food app
+
+- Resource: Google UX Coursera
+
+# 
