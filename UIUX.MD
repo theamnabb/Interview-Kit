@@ -15,6 +15,7 @@ Time Per Day: 2–3 hoursMain Tools: Figma, Notion, Behance, Miro, Coolors, Goog
 
 Resources:
 
-- YouTube: Jesse Showalter - What is UI/UX Design
+- YouTube: Jesse Showalter 
+    - What is UI/UX Design
 
 - NNGroup UX basics: https://www.nngroup.com/articles/definition-user-experience/
