@@ -90,15 +90,12 @@ today i have learned
 - work on MERN Stack CRUD Operation
   - work on Delete button and create API for routes
 - CIP video session
-
 # 21 May 2025
 
 - https://youtu.be/TkYtVQKWxeg?si=4Bw8rFqiAmzSPUt9 nodemailer
-- CIP Slides Ready
 
 # 22 May 2025
 
-- CIP Lecture
 - https://www.heroui.com/ need to explore heroui
 
 
