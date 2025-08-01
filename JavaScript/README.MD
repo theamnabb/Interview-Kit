@@ -17,18 +17,6 @@ today i have learned
 
 - introduction to DOM
 
-# 01 May 2025
-
-- waste
-
-# 02 May 2025
-
-- waste
-
-# 03 May 2025
-
-- waste
-
 # 04 May 2025
 
 - createElement, Query Selector, getElementById, querySelectorAll
@@ -82,13 +70,7 @@ today i have learned
 - mongosh For run mongo DB
 - delete previous Database by using db.dropDatabase() function
 
-# 08 May 2025
 
-- day waste
-
-# 09 May 2025
-
-- day waste
 
 # 10 May 2025
 
@@ -99,62 +81,6 @@ today i have learned
   - What are State, Components and re-rendering in React.
   - Create a simple count app using States and Components.
 
-# 11 May 2025
-
-- Waste my day 👽🥴
-
-# 12 May 2025
-
-- waste the day | i made mistake to text him
-- MERN Stack project
-  - learn about Cors, axios
-
-# 13 May 2025
-
-- MERN Stack
-- 05:48:54
-
-# 14 May 2025
-
-- no coding
-- Create Slides for CIP
-- Done my slides theory for CIP
-- remining part of code
-- i'm confusing too much
-
-# 15 May 2025
-
-- Lecture Done at CIP
-- I mess some coding problem but i was good
-- Now its time to prepare my self for TCF Interview
-
-# 16 May 2025
-
-- Interview Done at TCF Dastak
-- Today interview at Netixsol onsite for Software Engineer
-- Pending work
-
-  - video for website security
-  - after pushing my graph work perfectly
-
-  ***
-
-- I have done my Interview
-  - that was awesome, when HR said , i'm proud of you.
-  - You'r great candidate
-  - She give me some feedback
-  - Now I'm waiting for my Last and Final interview there
-  - Video Created for Website Security
-
-# 17 May 2025
-
-- Plan for MERN Stack Video Complete
-
-# 18 May 2025
-
-- No plan | going to Mamu trf
-- I'll write some LinkedIn post - 365 days of Leetcode - 365 days of Github - add Experience and Voluntor work at LinkedIn Profile - need to work on Authentication
-
 # 19 May 2025
 
 - i'm going to complete MERN Project
@@ -163,7 +89,6 @@ today i have learned
 
 - work on MERN Stack CRUD Operation
   - work on Delete button and create API for routes
-  - remining my last work Edit
 - CIP video session
 
 # 21 May 2025
@@ -176,70 +101,4 @@ today i have learned
 - CIP Lecture
 - https://www.heroui.com/ need to explore heroui
 
-- need to do these task today
-  - CIP lecture deliver
-  - React Hooks
-  - Next JS first 5 / 11 videos
-  
-- Done CIP Lecture
-- Target GITHUB
 
-# 23 May 2025
-
-- Waste my day
-- 15 videos of next JS watch
-- I cry due to him | I just really hate him.
-- My Mobile was not working properly and due to this i just video tha video of Nxt JS not implement the all concept
-- I have a lot of work in my plate but i'm stuck 
-- I 'm sad 
-- Today Maryum Engegment 
-
-# 24 May 2025
-
-- React Hooks
-- Recoil learn 
-- also waste time due to internet
-
-# 25 May 2025
-
-- ToDay Plan
-  - Practice for Next js 
-  - Task complete by Saif bhai Local storage
-  - CV update
-  - prepare for Netixsol 
-  - prepare for urdu speech 
-  - Need to search for best open source 
-
-  ---
-   - Not work performed due to guest 
-
-# 26 May 2025
-  - CV update
-  - Interview Done | Feel Sad bcz Going Not good
-  - Change my Name AaMna AnSari to Amna Bibi | Amna BB
-
-  - Change all Account and also Connect with new email
-  - Github Remining
-
-  ---
-  **Tomorrow Task** 
-  - upadate Portfolio
-  - CV update 
-  - Linkedtree update 
-  - Again i feel to much hurt | feel stuck here 
-
-# 27 May 2025 
-
-# 29 May 2025
-  - learn WordPress
-  - Tomorrow i m going to ready a lecture for CIP   
-
-# 30 May 2025
-  - Talk to him again
-  - Missed my last CIP Lecture 
-  - He tease me all the time
-
-# 31 May 2025
-- Again Block him
-
-----
